@@ -40,7 +40,7 @@
 - **Port:** Virtual channels identifying specific services running on a server (e.g., Port 80 for HTTP, Port 443 for HTTPS).
 - **DNS & IP Address:** DNS resolves human-friendly domain names (`site.com`) into numerical IP addresses (`192.168.1.10`) so packets can reach their destination.
 
-##
+## HTTP Protocol Basics
 - **HTTP Methods (Commands):** Define the action a client wants to perform on a server resource.
 - **`GET`:** Retrieves data/pages without modifying server state (Read).
 - **`POST`:** Sends data to create new resources or submit forms (Create).
@@ -264,7 +264,7 @@ UTF defines how Unicode code points are stored as bytes in memory or transmitted
 ---
 ### Key Takeaways for Cybersecurity
 * **Web Exploitation Foundation:** JavaScript powers the web. Understanding client-side JavaScript is essential for identifying vulnerabilities like Cross-Site Scripting (XSS) and client-side authentication bypasses.
-* **Template Literals:** Always use backticks (``` `...` ```) instead of standard quotes when injecting variables into strings using `${variable}` format.
+* **Template Literals:** Always use backticks (`` `...` ``) instead of standard quotes when injecting variables into strings using `${variable}` format.
 * **Logic Over Memorization:** Searching for syntax (e.g., looking up `prompt()` vs Python's `input()`) is standard practice for professional developers and security analysts—focusing on algorithm design matters most.
 
 # Day 14 — August 14, 2026
