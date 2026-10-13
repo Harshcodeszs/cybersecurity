@@ -31,7 +31,7 @@ Instead of just collecting certificates, I use this space to document my technic
  ┣ 📂 cisco            # Conceptual notes on network security & threats
  ┣ 📂 google           # Notes on frameworks, security roles, and analyst duties
  ┣ 📂 others           # sooon
- ┣ 📂 projects         # Random scripts, tools, and labs I build independentl
+ ┣ 📂 projects         # Random scripts, tools, and labs I build independently
  ┗ 📜 README.md        # You are here men!
 ```
 
